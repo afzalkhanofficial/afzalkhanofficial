@@ -119,20 +119,3 @@ fun_fact: "I turn caffeine into code and bugs into features! ☕→💻"
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ————— FOOTER ————— -->
-
-<div align="center">
-
-  ### 💜 *"Star my repos if you find them useful!"* ⭐
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Made_with-❤️-FF0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/by-Afzal_Khan-6C63FF?style=for-the-badge" />
-
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
