@@ -89,11 +89,6 @@ fun_fact: "I turn caffeine into code and bugs into features! ☕→💻"
 
 <!-- ————— GITHUB STATS ————— -->
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" />
-  GitHub Analytics
-</h2>
-
 <div align="center">
 
   <!-- Streak Stats -->
@@ -132,11 +127,6 @@ fun_fact: "I turn caffeine into code and bugs into features! ☕→💻"
 
 <!-- ————— SNAKE ANIMATION ————— -->
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" />
-  Contribution Snake
-</h2>
-
 <div align="center">
 
   <picture>
@@ -150,12 +140,6 @@ fun_fact: "I turn caffeine into code and bugs into features! ☕→💻"
 <br/>
 
 <!-- ————— FOOTER ————— -->
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%" />
-
-</div>
 
 <div align="center">
 
