@@ -1,33 +1,4 @@
-<!-- ————— HEADER BANNER ————— -->
-<div align="center">
-
-  <!-- Animated Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Afzal%20Khan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%" />
-
-</div>
-
-<!-- ————— PROFILE VIEWS & SOCIAL BADGES ————— -->
-<div align="center">
-
-  <a href="https://github.com/afzalkhanofficial">
-    <img src="https://komarev.com/ghpvc/?username=afzalkhanofficial&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/afzalkhanofficial?tab=followers">
-    <img src="https://img.shields.io/github/followers/afzalkhanofficial?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/afzalkhanofficial?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/afzalkhanofficial?label=Total%20Stars&style=for-the-badge&color=FF6C37&labelColor=1a1b27" alt="GitHub Stars" />
-  </a>
-
-</div>
-
-<br/>
-
 <!-- ————— ABOUT ME ————— -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> About Me
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -57,6 +28,25 @@ fun_fact: "I turn caffeine into code and bugs into features! ☕→💻"
     </td>
   </tr>
 </table>
+
+<!-- ————— PROFILE BADGES ————— -->
+<div align="center">
+
+  <a href="https://github.com/afzalkhanofficial">
+    <img src="https://komarev.com/ghpvc/?username=afzalkhanofficial&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/afzalkhanofficial?tab=followers">
+    <img src="https://img.shields.io/github/followers/afzalkhanofficial?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/afzalkhanofficial?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/afzalkhanofficial?label=Total%20Stars&style=for-the-badge&color=FF6C37&labelColor=1a1b27" alt="GitHub Stars" />
+  </a>
+
+</div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -106,20 +96,6 @@ fun_fact: "I turn caffeine into code and bugs into features! ☕→💻"
 
 <div align="center">
 
-  <!-- Stats Card + Top Languages side by side -->
-  <a href="https://github.com/afzalkhanofficial">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afzalkhanofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&rank_icon=github" alt="Afzal's GitHub Stats" />
-  </a>
-  <a href="https://github.com/afzalkhanofficial">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalkhanofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
   <!-- Streak Stats -->
   <a href="https://github.com/afzalkhanofficial">
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=afzalkhanofficial&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6C37&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
@@ -142,30 +118,11 @@ fun_fact: "I turn caffeine into code and bugs into features! ☕→💻"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ————— TROPHIES ————— -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" />
-  GitHub Trophies
-</h2>
-
-<div align="center">
-
-  <a href="https://github.com/afzalkhanofficial">
-    <img src="https://github-profile-trophy.vercel.app/?username=afzalkhanofficial&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ————— QUOTE ————— -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=22&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=80&lines=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D+%E2%80%93+John+Johnson;%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%93+Linus+Torvalds;%E2%80%9CCode+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%E2%80%9D+%E2%80%93+Cory+House;%E2%80%9CThe+best+error+message+is+the+one+that+never+shows+up.%E2%80%9D+%E2%80%93+Thomas+Fuchs;%E2%80%9CSimplicity+is+the+soul+of+efficiency.%E2%80%9D+%E2%80%93+Austin+Freeman" alt="Dev Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=80&lines=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D+%E2%80%93+John+Johnson;%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%93+Linus+Torvalds;%E2%80%9CCode+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%E2%80%9D+%E2%80%93+Cory+House;%E2%80%9CThe+best+error+message+is+the+one+that+never+shows+up.%E2%80%9D+%E2%80%93+Thomas+Fuchs;%E2%80%9CSimplicity+is+the+soul+of+efficiency.%E2%80%9D+%E2%80%93+Austin+Freeman" alt="Dev Quotes" />
 
 </div>
 
@@ -183,9 +140,9 @@ fun_fact: "I turn caffeine into code and bugs into features! ☕→💻"
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afzalkhanofficial/afzalkhanofficial/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afzalkhanofficial/afzalkhanofficial/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/afzalkhanofficial/afzalkhanofficial/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afzalkhanofficial/afzalkhanofficial/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afzalkhanofficial/afzalkhanofficial/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/afzalkhanofficial/afzalkhanofficial/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
